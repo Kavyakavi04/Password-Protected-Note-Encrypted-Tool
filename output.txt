@@ -1,0 +1,3 @@
+The password Protected Note Encryption Tool helps to keep important notes safe and secure.
+It encrypts the notes using a password, so unauthorized people cannot read them.
+The notes can be decrypted using the correct password.
